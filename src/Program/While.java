@@ -1,7 +1,7 @@
 package Program;
 
-public class ProgramSaya {
-    public static void While(String[] args.) {
+public class While {
+    public static void main(String[] args) {
         int bakmandi = 0;
         int penuh = 400;
 
